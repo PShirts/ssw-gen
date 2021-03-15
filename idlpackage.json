@@ -5,8 +5,8 @@
 "Date": "Mar 11 2021",
 "Dependencies": [
     {
-     "Name": "test_11",
-     "Version": ">1.0", 
+     "Name": "test_12",
+     "Version": ">1.1", 
      "URL":"http://github.com/PShirts/ssw-gen"
      }
 	]

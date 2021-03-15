@@ -1,13 +1,12 @@
 {
 "Name": "ssw-gen",
-"Version": "v1.0.0",
+"Version": "v1.0.2",
 "Author": "LMSAL et al",
 "Date": "Mar 11 2021",
 "Dependencies": [
     {
-     "Name": "test_12",
-     "Version": ">1.1", 
-     "URL":"http://github.com/PShirts/ssw-gen"
+     "Name": "IDL",
+     "Version": ">6.5"
      }
-	]
+]
 }

@@ -5,11 +5,7 @@
 "Date": "Mar 11 2021",
 "Dependencies": [
     {
-      "Name": "IDL",
-      "Version": "^6.4"
-    },
-    {
-     "Name": "",
+     "Name": "test_11",
      "Version": ">1.0", 
      "URL":"http://github.com/PShirts/ssw-gen"
      }
